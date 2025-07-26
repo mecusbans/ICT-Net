@@ -24,6 +24,7 @@ All experiments were conducted using an NVIDIA GeForce RTX 2080 Ti GPU
 | Date    | Model     |Title                                                                                                                                                      | Code |
 | :---:   | :---:     | :---:                                                                                                                                                     | :---:|
 | 2022  | MCI-Net   |MCI-Net: Multi-scale context integrated network for liver CT image segmentation [(Paper)](https://www.sciencedirect.com/science/article/abs/pii/S0045790622003408) | [Code](https://github.com/Xie-Xiwang/MCI-Net)|
+| 2023  | GCHA-Net   |GCHA-Net: Global context and hybrid attention network for automatic liver segmentation [(Paper)](https://www.sciencedirect.com/science/article/abs/pii/S0010482522010605) | [Code](https://github.com/HuaxiangLiu/GCAU-Net)|
 
 
 
