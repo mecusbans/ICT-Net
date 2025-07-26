@@ -56,7 +56,7 @@ All experiments were conducted using an NVIDIA GeForce RTX 2080 Ti GPU
 mecusbans@gmail.com
 
 #   Acknowledgments
-The authors thank the Chongqing University Cancer hospital for their support.
+The authors thank the Chongqing University Cancer Hospital for their support.
 
 
 # Cite this article
