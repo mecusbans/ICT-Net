@@ -42,7 +42,7 @@ All experiments were conducted using an NVIDIA GeForce RTX 2080 Ti GPU
 
 
 
-# Medical Image Segmentation Ultrasound and CT Datasets
+# Medical Image Segmentation CT Datasets
 
 | Year    | Dataset     | Tissue  Type                           | Link|
 | :---:   | :---:     | :---:                                                          | :---:|
