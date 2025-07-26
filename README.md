@@ -4,13 +4,13 @@ Background: Automatic segmentation of liver regions as well as liver lesions suc
 
 #  ICT-Net Architecture
 
-![ARC](https://github.com/S-domain/E-TransConvNet/blob/695d5b634324f9a2eed9f22eb35a26191d786258/Figures/ARC.png)
+![Figure2](https://github.com/mecusbans/ICT-Net/blob/051e6a89fd764d2bca08c60bb2f4f690175df47e/Folders/Figure2.png)
 
 # The schematic illustration of CT slices from the CCH-LHCC-CT dataset highlights various challenges in liver and liver tumor segmentation
-![Challenges](https://github.com/S-domain/E-TransConvNet/blob/cdfb8a8e9b073026624cc10f338cc705f1d128e5/Figures/ETB.png)
+![Figure1](https://github.com/mecusbans/ICT-Net/blob/051e6a89fd764d2bca08c60bb2f4f690175df47e/Folders/Figure1.png)
 
 # Segmentation Results on the CCH-LHCC-CT Tumor Dataset
-![CCH-LHCC-CT](https://github.com/S-domain/E-TransConvNet/blob/eb811931c50e8a87f2db7b1297a432959df84a94/Figures/Kidney_US2.png)
+![Figure7](https://github.com/mecusbans/ICT-Net/blob/051e6a89fd764d2bca08c60bb2f4f690175df47e/Folders/Figure7.pdf)
 
 
 # Requirements
